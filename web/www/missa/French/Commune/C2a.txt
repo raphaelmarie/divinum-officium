@@ -1,5 +1,5 @@
 [Name]
-Commune Unius Martyris, Laetabitur
+Commun Un Martyr, Laetabitur
 
 [Rule]
 
