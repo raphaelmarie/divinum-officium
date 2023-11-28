@@ -1,8 +1,8 @@
 [Name]
-Petit Office de la Bienheureuse Vierge Marie
+Petit Office de la Bienheureuse Vierge Marie en la Fête de l'Annonciaion
 
 [Rank]
-Petit Office de la Bienheureuse Vierge Marie en la Fêtede l'Annonciaion;;Simplex;;1;;vide C11
+Petit Office de la Bienheureuse Vierge Marie en la Fête de l'Annonciaion;;Simplex;;1;;vide C11
 
 [Rule]
 ex C11;
