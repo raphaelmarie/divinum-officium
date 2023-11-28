@@ -1,5 +1,5 @@
 [Name]
-Commune Confessoris non pontificis; Os justi
+Commun d'un Confesseur non pontife; Os justi
 
 [Rule]
 
