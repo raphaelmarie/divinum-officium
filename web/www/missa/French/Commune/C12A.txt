@@ -1,5 +1,5 @@
 [Name]
-Petit Office de la Bienheureuse Vierge Marie
+Petit Office de la Bienheureuse Vierge Marie Temps de l'Avent
 
 [Rank]
 Petit Office de la Bienheureuse Vierge Marie temps de l'Avent;;Simplex;;1;;vide C11
