@@ -1,5 +1,5 @@
 [Name]
-Commune Summorum Pontificum; Si diligis
+Commun d'un Souverain Pontife; Si diligis
 
 [Rule]
 Prefatio=Apostolis
