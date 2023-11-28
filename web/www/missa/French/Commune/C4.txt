@@ -1,5 +1,5 @@
 [Name]
-Commune Confessoris Pontificis;Statuit
+Commun d'un Confesseur Pontife;Statuit
 
 [Rule]
 
