@@ -1,5 +1,5 @@
 [Name]
-Commune confessoris doctoris Paschal time; In medio
+Commun d'un confesseur Docteur Temps Pascal; In medio
 
 [Rule]
 Gloria
