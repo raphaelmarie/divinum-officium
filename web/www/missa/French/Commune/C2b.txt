@@ -1,5 +1,5 @@
 [Name]
-Commune Unius Martyris Pontificis, Sacerdotes Dei
+Commun d'Un Martyr Pontife, Prêtres de Dieu
 
 [Rule]
 
