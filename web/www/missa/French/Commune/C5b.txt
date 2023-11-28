@@ -1,5 +1,5 @@
 [Name]
-Commune Confessoris non pontificis; Justus
+Commun d'un Confesseur non pontife; Justus
 
 [Rule]
 
