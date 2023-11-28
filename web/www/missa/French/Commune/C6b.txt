@@ -1,5 +1,5 @@
 [Name]
-Commundes Vierges; Dilexisti
+Commun des Vierges; Dilexisti
 
 [Rule]
 Prefatio=Virginis
