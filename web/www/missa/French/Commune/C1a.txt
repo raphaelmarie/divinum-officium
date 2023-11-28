@@ -1,5 +1,5 @@
 [Name]
-Commune Evangelistarum
+Commun des Evangelistes
 
 [Rule]
 Psalmi Dominica
