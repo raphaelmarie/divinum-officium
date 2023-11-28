@@ -1,8 +1,8 @@
 [Name]
-Officium parvum Beatae Mariae Virginis
+Petit Office de la Bienheureuse Vierge Marie
 
 [Rank]
-Officium parvum Beatae Mariae Virginis Festo Annuntiatione;;Simplex;;1;;vide C11
+Petit Office de la Bienheureuse Vierge Marie en la Fêtede l'Annonciaion;;Simplex;;1;;vide C11
 
 [Rule]
 ex C11;
