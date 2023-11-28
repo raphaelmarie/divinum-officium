@@ -1,5 +1,5 @@
 [Name]
-Officium Beatae Mariae Virginis in Sabbato
+Sainte Vierge Marie le Samedi
 
 [Rank]
 Sanctae Mariae Sabbato;;Feria;;2;;vide C10
@@ -22,7 +22,7 @@ Accordez-nous, Seigneur, une heureuse santé de l'âme et du corps, et par la gl
 $Per Dominum
 
 [Lectio]
-Léctio libri Sapiéntiæ.
+Lecture du livre de la Sagesse.
 !Eccli 24:14-16
 Dès l'origine, avant tous les siècles, il m'a créée, et jusqu'à la fin des temps je ne cesserai d'exister ; en sa présence j'ai officié dans le saint tabernacle. Ainsi je me suis établie en Sion ; dans la cité sainte j'ai trouvé mon repos ; Jérusalem est le siège de ma puissance. J'ai poussé mes racines chez un peuple prévenu d'honneur, dans la portion du Seigneur, dans son héritage, et j'ai fixé mon séjour dans l'assemblée des saints.
 
@@ -32,7 +32,7 @@ V. Ô Vierge, Mère de Dieu, celui que l'univers entier ne peut contenir, devenu
 V. Après l'enfantement, ô Vierge, vous êtes demeurée inviolée. Ô Mère de Dieu intercédez pour nous. Alléluia.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Lucam
+Suite du ++ saint Evangile selon Saint Luc
 !Luc 11:27-28
 En ce temps-là, Jésus parlait aux foules, quand une femme éleva la voix du milieu de la foule et lui dit : « Heureux le ventre qui t'a porté, et les seins qui t'ont allaité ! » Mais lui répondit : « Heureux bien plutôt ceux qui écoutent la Parole de Dieu et qui la gardent. »
 
