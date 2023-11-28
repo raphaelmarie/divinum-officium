@@ -1,5 +1,5 @@
 [Name]
-Commune Unius Martyris, In virtute
+Commun Un Martyr, In virtute
 
 [Rule]
 
