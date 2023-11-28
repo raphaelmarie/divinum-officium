@@ -1,5 +1,5 @@
 [Name]
-Commune confessoris non pontificis Tempore Paschali; Os justi
+Commun d'un Confesseur non pontife Temps Pascal; Os justi
 
 [Rule]
 
