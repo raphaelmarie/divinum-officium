@@ -1,8 +1,8 @@
 [Name]
-Beatae Mariae Virginis in Sabbato; Salve Sancte Parens
+Bienheureuse Vierge Marie le samedi; Salve Sancte Parens
 
 [Rank]
-Sanctae Mariae Sabbato;;Feria;;2;;vide C10
+Saine Vierge Marie le samedi;;Feria;;2;;vide C10
 
 [Rule]
 Gloria
