@@ -1,8 +1,8 @@
 [Name]
-Officium parvum Beatae Mariae Virginis
+Petit Office de la Bienheureuse Vierge Marie
 
 [Rank]
-Officium parvum Beatae Mariae Virginis tempore Adventi;;Simplex;;1;;vide C11
+Petit Office de la Bienheureuse Vierge Marie temps de l'Avent;;Simplex;;1;;vide C11
 
 [Rule]
 ex C11;
