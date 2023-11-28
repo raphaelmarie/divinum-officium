@@ -1,8 +1,8 @@
 [Name]
-Officium parvum Beatae Mariae Virginis Tempora Nativiti
+Petit Office de la Bienheureuse Vierge Marie Temps de la Nativité
 
 [Rank]
-Officium parvum Beatae Mariae Virginis Tempora Nativitati;;Simplex;;1;;vide C11
+Petit Office de la Bienheureuse Vierge Marie Temps de la Nativité;;Simplex;;1;;vide C11
 
 [Rule]
 ex C11;
