@@ -1,5 +1,5 @@
 [Name]
-Commune unius Martyris Tempore Paschali; Protexisti
+Commun d'un Martyr Temps Pascal; Protexisti
 
 [Rule]
 
