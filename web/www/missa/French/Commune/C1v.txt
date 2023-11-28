@@ -1,5 +1,5 @@
 [Name]
-Vigile dees Apôtres, Moi, je suis
+Vigile des Apôtres, Moi, je suis
 
 [Rule]
 no Gloria
