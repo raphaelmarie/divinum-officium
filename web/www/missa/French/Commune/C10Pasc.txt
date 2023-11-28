@@ -1,5 +1,5 @@
 [Name]
-Sancta Maria Sabbato Tempore Paschali; Salve Sancta parens
+Sainte Vierge Marie le samedi Temps Pascal; Salve Sancta parens
 
 [Rule]
 Gloria
