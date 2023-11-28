@@ -1,5 +1,5 @@
 [Name]
-Commune Confessoris Pontificis Tempore Paschali
+Commun Confesseur Pontife Temps Pascal
 
 [Rule]
 
