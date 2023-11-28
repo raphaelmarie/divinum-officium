@@ -1,5 +1,5 @@
 [Name]
-Commune Plurimorum Martyrum Intret in conspectu
+Commun Plusieurs Martyrus Intret in conspectu
 
 [Rule]
 
