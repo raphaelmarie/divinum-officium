@@ -1,5 +1,5 @@
 [Name]
-Commune non Virginum Martyrum=Exaudi nos
+Commun des Saintes femmes martyres=Exaudi nos
 
 [Rule]
 Psalmi Dominica
