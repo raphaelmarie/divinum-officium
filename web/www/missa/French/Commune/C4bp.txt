@@ -1,5 +1,5 @@
 [Name]
-Commune Summorum Pontificum Tempore Paschalis; Si diligis
+Commun d'un Souveran Pontife Temps Pascal; Si diligis
 
 [Rule]
 Prefatio=Apostolis
