@@ -1,5 +1,5 @@
 [Name]
-Commune Doctore Tempore Paschali; In medio
+Commun d'un Docteur Temps Pascal; In medio
 
 [Rule]
 Gloria
