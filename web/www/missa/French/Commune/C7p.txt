@@ -1,5 +1,5 @@
 [Name]
-Commune non Virginum Martyrum Tempore Paschali
+Commundes Saintes Femmes non martyres Temps Pascal
 
 [Rule]
 Psalmi Dominica
