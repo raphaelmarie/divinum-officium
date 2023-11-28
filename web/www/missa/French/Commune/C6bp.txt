@@ -1,5 +1,5 @@
 [Name]
-Commune Virginum tantum; Dilexisti
+Commun des Vierges; Dilexisti
 
 [Rule]
 Prefatio=Virginis
@@ -17,7 +17,7 @@ Exaucez-nous, Dieu notre Sauveur, afin que célébrant dans la joie la fête de 
 $Per Dominum
 
 [Lectio]
-Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios.
+Lecture du Bienheureux Paul apôtres aux Corinthiens.
 !2 Cor 10:17-18; 11:1-2
 Frère, si quelqu'un se glorifie, qu'il se glorifie dans le Seigneur. Ce n'est pas celui qui se recommande lui-même qui est un homme de valeur éprouvée, c'est celui que le Seigneur recommande. Oh ! si vous pouviez supporter de ma part un peu de folie ! Eh bien ! oui, supportez-moi. J'éprouve à votre égard une jalousie divine ; car je vous ai fiancés à un époux unique : comme une vierge pure, je vous ai présentés au Christ.
 
