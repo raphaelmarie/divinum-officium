@@ -1,8 +1,8 @@
 [Name]
-Officium parvum Beatae Mariae Virginis
+Petit Office de la Bienheureuse Vierge Marie Temps Pascal
 
 [Rank]
-Officium parvum Beatae Mariae Virginis Tempora Paschalis;;Simplex;;1;;ex C11
+Petit Office de la Bienheureuse Vierge Marie Temps Pascal;;Simplex;;1;;ex C11
 
 [Rule]
 ex C11;
