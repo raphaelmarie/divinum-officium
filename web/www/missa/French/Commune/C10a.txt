@@ -1,5 +1,5 @@
 [Name]
-Sancta Maria Sabbato Tempore Adventi; Rorate coeli
+Sainte Vierge Marie Temps de l'Avent; Rorate coeli
 
 [Rule]
 Gloria
