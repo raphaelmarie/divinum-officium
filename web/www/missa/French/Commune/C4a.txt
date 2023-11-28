@@ -1,5 +1,5 @@
 [Name]
-Commune Doctoris; In medio
+Commun d'un Docteur; In medio
 
 [Rule]
 Gloria
