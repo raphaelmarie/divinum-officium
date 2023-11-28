@@ -1,5 +1,5 @@
 [Name]
-Commune apostolorum tempore Paschali
+Commun des apôtres au Temps Pasccal
 
 [Rule]
 Psalmi Dominica
