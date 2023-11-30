@@ -1,8 +1,8 @@
 [Rank]
-Secunda die infra Octavam Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-06
+Deuxième jour de l'octave de l'Epiphanie;;Semiduplex;;2;;ex Sancti/01-06
 
 [Rank1960]
-Die Septima Januarii;;Feria;;1.2;;vide Sancti/01-06
+Sept janvier;;Feria;;1.2;;vide Sancti/01-06
 
 [Rule]
 Gloria
