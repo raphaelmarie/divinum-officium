@@ -49,7 +49,7 @@ $Per Dominum
 
 [Oratio Papa]
 !Pour le Pape
-O Dieu, Pasteur et Conducteur de tous les fidèles, regardez d'un œil favorable Votre serviteur N..., que vous as placé comme pasteur à la t^te de votre Eglise ; faites-lui, nous Vous en supplions, la grâce d'être utile par ses paroles et par sa conduite à ceux qu'il gouverne, afin qu'il puisse arriver un jour à la gloire éternelle avec le troupeau qui lui a été confié.
+O Dieu, Pasteur et Conducteur de tous les fidèles, regardez d'un œil favorable Votre serviteur N..., que vous as placé comme Pasteur à la tête de votre Eglise ; faites-lui, nous Vous en supplions, la grâce d'être utile par ses paroles et par sa conduite à ceux qu'il gouverne, afin qu'il puisse arriver un jour à la gloire éternelle avec le troupeau qui lui a été confié.
 $Per Dominum
 
 [Secreta Ecclesiae]
@@ -59,7 +59,7 @@ $Per Dominum
 
 [Secreta Papa]
 !Pour le Pape
-Laissez-Vous fléchir par cette oblation, nous Vous en supplions, Seigneur, et daignez gouverner par Votre continuelle protection, Votre serviteur N..., que Vous avez  voulu établir Pasteur de Votre Église.
+Laissez-Vous fléchir par cette oblation, nous Vous en supplions, Seigneur, et daignez gouverner par Votre continuelle protection, Votre serviteur N..., que Vous avez voulu établir Pasteur de Votre Église.
 $Per Dominum
 
 [Postcommunio Ecclesiae]
@@ -69,7 +69,7 @@ $Per Dominum
 
 [Postcommunio Papa]
 !Pour le Pape
-Faites, s'il Vous plaît, Seigneur, que la participation à ce divin Sacrement nous protège; qu'elle sauve aussi et fortifie toujours, avec le troupeau qui lui n été confié, Votre serviteur N..., que Vous avez élevé à la dignité de pasteur de Votre Église. 
+Faites, s'il Vous plaît, Seigneur, que la participation à ce divin Sacrement nous protège; qu'elle sauve aussi et fortifie toujours, avec le troupeau qui lui a été confié, Votre serviteur N..., que Vous avez élevé à la dignité de Pasteur de Votre Église. 
 $Per Dominum
 
 [Oratio Sanctorum]
