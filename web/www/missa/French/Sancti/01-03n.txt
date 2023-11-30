@@ -1,5 +1,5 @@
 [Rank]
-Sanctissimi Nominis Jesu;;Duplex optional;;2;;
+Très Saint Nom de Jésus;;Duplex optional;;2;;
 
 [Rule]
 Gloria
@@ -38,14 +38,14 @@ Seigneur, Dieu des armées, rétablissez-nous, et montrez-nous votre visage, et 
 Votre nom est une huile répandue ; c’est pourquoi les jeunes filles vous aiment.
 
 [GradualeP]
-Allelúja, allelúja
+Alleluia, alleluia
 !Ps 144:21
 Ma bouche publiera la louange du Seigneur, et que toute chair bénisse son saint nom.
 !Ps 144:1
 Je Vous exalterai, ô Dieu mon roi, et je bénirai votre saint Nom, Jésus, à jamais et dans les siècles des siècles. Alléluia.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Lucam
+Suite du ++ saint Evangile selon Saint Luc
 !Luc 2:21
 En ce temps là, le huitième jour, auquel l’enfant devait être circoncis, étant arrivé, on lui donna le nom de Jésus, que l’ange avait indiqué avant qu’il fût conçu dans le sein de sa mère.
 
