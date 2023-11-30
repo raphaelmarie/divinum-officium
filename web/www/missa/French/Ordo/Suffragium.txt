@@ -49,7 +49,7 @@ $Per Dominum
 
 [Oratio Papa]
 !Pour le Pape
-O Dieu, Pasteur et Conducteur de tous les fidèles, regardez d'un œil favorable Votre serviteur N..., que vous as placé sur le siège du diocèse de Rome, auquel nous reconnaissons la primauté d’honneur ; faites-lui, nous Vous en supplions, la grâce d'être utile par ses paroles et par sa conduite à ceux qu'il gouverne, afin qu'il puisse arriver un jour à la gloire éternelle avec le troupeau qui lui a été confié.
+O Dieu, Pasteur et Conducteur de tous les fidèles, regardez d'un œil favorable Votre serviteur N..., que vous as placé comme pasteur à la t^te de votre Eglise ; faites-lui, nous Vous en supplions, la grâce d'être utile par ses paroles et par sa conduite à ceux qu'il gouverne, afin qu'il puisse arriver un jour à la gloire éternelle avec le troupeau qui lui a été confié.
 $Per Dominum
 
 [Secreta Ecclesiae]
