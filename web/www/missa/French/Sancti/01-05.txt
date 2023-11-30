@@ -1,11 +1,11 @@
 [Rank]
-In Vigilia Epiphaniæ;;Semiduplex;;5;;ex Sancti/01-01
+Vigile de l'Epiphanie;;Semiduplex;;5;;ex Sancti/01-01
 
 [Rank1570]
-In Vigilia Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-01
+Vigile de l'Epiphanie;;Semiduplex;;2;;ex Sancti/01-01
 
 [Rank1960]
-Die Quinta Januarii;;Feria;;1.2;;vide Sancti/01-01
+Cinqa janvier;;Feria;;1.2;;vide Sancti/01-01
 
 [Rule]
 CPapaM=Telésphorum;
@@ -34,7 +34,7 @@ $Qui tecum
 @Commune/C4b:Oratio Gregem
 
 [Lectio]
-Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas.
+Lecture de l'Epitre du Bienheureux Apôtre Pau aux Galates.
 !Gal 4:1-7
 Frères, aussi longtemps que l'héritier est enfant, il ne diffère en rien d'un esclave, quoiqu'il soit le maître de tout ; mais il est soumis à des tuteurs et à des curateurs jusqu'au temps marqué par le père. De même, nous aussi, quand nous étions enfants, nous étions sous l'esclavage des rudiments du monde. Mais lorsque est venue la plénitude des temps, Dieu a envoyé son Fils, formé d'une femme, né sous la Loi, pour affranchir ceux qui sont sous la Loi, afin de nous conférer l'adoption. Et parce que vous êtes fils, Dieu a envoyé dans vos cœurs l'Esprit de son Fils, lequel crie : Abba ! Père ! Ainsi tu n'es plus esclave, tu es fils ; et si tu es fils, tu es aussi héritier grâce à Dieu.
 
@@ -46,7 +46,7 @@ V. De mon cœur jaillit un beau poème, je dis mes œuvres au Roi ; ma langue es
 Le Seigneur règne, vêtu de majesté ; le Seigneur s'est revêtu de puissance, il s'est ceint de force. Alléluia.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthǽum.
+Suite du ++ saint Evangile drlon Saint Matthieu.
 !Matt 2:19-23.
 En ce temps-là, Hérode étant mort, voici qu'un ange du Seigneur apparut en songe à Joseph en Égypte, et lui dit : « Lève-toi, prends l'enfant et sa mère, et va dans la terre d'Israël, car ceux qui en voulaient à la vie de l'enfant sont morts. » Et lui, s'étant levé, prit l'enfant et sa mère, et il vint dans la terre d'Israël. Mais, apprenant qu'Archélaüs régnait en Judée à la place d'Hérode, son père, il eut peur d'y aller, et, ayant été averti en songe, il gagna la région de la Galilée et vint habiter dans une ville nommée Nazareth, afin que s'accomplît ce qu'avaient dit les prophètes : Il sera appelé Nazaréen. 
 
