@@ -1,5 +1,5 @@
 [Rank]
-Die Quinta Januarii;;Feria;;1.2;;vide Sancti/01-01
+Cinq janvier;;Feria;;1.2;;vide Sancti/01-01
 
 [Rule]
 CPapaM=Telésphorum;
